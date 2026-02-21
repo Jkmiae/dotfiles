@@ -17,3 +17,5 @@ kitty @ set-colors -a "~/.cache/wal/colors-kitty.conf"
 
 ![alt_text](https://github.com/Jkmiae/dotfiles/blob/main/exemples/rei_screenshot.png)
 ![alt text](https://github.com/Jkmiae/dotfiles/blob/main/exemples/apothecarydiaries.png)
+
+### Let me know if you encounter any issues
