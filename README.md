@@ -13,3 +13,7 @@ and run:
 wal -i "path/to/your/wallpaper" -n -q
 kitty @ set-colors -a "~/.cache/wal/colors-kitty.conf"
 ```
+#Examples
+
+![alt_text](https://github.com/Jkmiae/dotfiles/blob/main/exemples/rei_screenshot.png)
+![alt text](https://github.com/Jkmiae/dotfiles/blob/main/exemples/apothecarydiaries.png)
