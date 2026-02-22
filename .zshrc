@@ -5,9 +5,10 @@ export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="gnzh"
 
 # Lance fastfetch au démarrage
-source ~/scripts/random_shell_image.sh
+#source ~/script/random_shell_image.sh
 
-fastfetch
+# n'affiche pas fastfetch si ke terminal est trop petit
+source ~/script/fasfetch_lunch.sh
 
 
 # 1. On définit les plugins Oh My Zsh standards (ceux inclus de base)
