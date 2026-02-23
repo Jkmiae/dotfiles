@@ -1,0 +1,7 @@
+# 1. On importe les couleurs déjà traduites par pywal
+include /home/jkmi/.config/theme/activ_theme/colors_conf/zathurarc
+
+# 2. Tes réglages personnels (sans variables pywal)
+set selection-clipboard clipboard
+set adjust-open "width"
+set recolor "true"
